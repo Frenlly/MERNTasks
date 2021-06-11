@@ -1,0 +1,9 @@
+export const FORM_NEW_PROJECT = "FORM_NEW_PROJECT";
+export const SHOW_PROJECT = "SHOW_PROJECT";
+export const SHOW_TASK = "SHOW_TASK";
+export const ADD_PROJECT = "ADD_PROJECT";
+export const ADD_TASK = "ADD_TASK";
+export const ACTUAL_PROJECT = "ACTUAL_PROJECT";
+export const DELETE_PROJECT = "DELETE_PROJECT";
+export const TASK_COMPLETE = "TASK_COMPLETE";
+export const DELETE_TASK = "DELETE_TASK";
